@@ -1,4 +1,4 @@
-# Prediction-using-Supervised-ML-
+# Prediction-using-Supervised-ML
 ## This Supervised ML project predicts the percentage of a student based on the no. of study hours.
 
 It is a simple linear linear regression task which involves just 2 variables.
